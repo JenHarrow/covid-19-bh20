@@ -12,6 +12,20 @@ With https://live.usegalaxy.eu the Galaxy project is also offering Juypter Noteb
 
 If you have any questions or problems, please contact `galaxy@informatik.uni-freiburg.de`.
 
+## Cloud computing
+
+* OpenStack
+  * ELIXIR nodes offer OpenStack services for research. For access request & other queries please join  `#elixir-resources`slack [channel](https://join.slack.com/share/I0113JB2P9Q/tHQPzqdxPXJjPpAcRrNJxwt5/enQtMTAzNzYyMzA5MTMzMC1jYmI1MTkzNGQ2ZTZiMTExZjhmYTQzNGMyNDllOWYwOTAyZDllNmEyNTkwNGM1NTE5NTllNDVkMzljMmY4ZWM1)
+
+* Kubernetes/OKD
+  * ELIXIR nodes offer K8s & OKD services for research. For access request & other queries please join  `#elixir-resources`slack [channel](https://join.slack.com/share/I0113JB2P9Q/tHQPzqdxPXJjPpAcRrNJxwt5/enQtMTAzNzYyMzA5MTMzMC1jYmI1MTkzNGQ2ZTZiMTExZjhmYTQzNGMyNDllOWYwOTAyZDllNmEyNTkwNGM1NTE5NTllNDVkMzljMmY4ZWM1)
+
+* Google Cloud Platform(?)
+
+## HPC and supercomputing
+
+* COVID-19 HPC offers resources for research. See [COVID-19 HPC](https://covid19-hpc.mybluemix.net/)
+
 ## Arvados instance (https://biohackathon.curii.com)
 
 Arvados is an open source platform for managing biomedical data and
